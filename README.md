@@ -31,6 +31,10 @@ Anura shows as more of a proof-of-concept with what's possible on the modern web
 > - If you are not in a codespace skip to the regular installation steps.
 > - This does NOT build RootFS.
 
+### Easy build for static webhost:
+- run `make`
+- run `make static`
+
 ### Dependencies
 
 - Recent versions of `node.js` and `npm`
